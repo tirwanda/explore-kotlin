@@ -14,4 +14,8 @@ fun main() {
     println(edho.firstName)
     println(dwi.firstName)
     println(tirwanda.firstName)
+
+    edho.sayHello("Dwi")
+
+    println(edho.getFullName())
 }
